@@ -1,25 +1,25 @@
 {
-    "tokens": [
-        {
-            "id": 0,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
-        },
-        {
-            "id": 1,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
-        },
-        {
-            "id": 2,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
-        }
-    ]
+  "tokens": [
+    {
+      "id": 1996,
+      "description": "FDAO-happy",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://ey5me.csb.app/happy.svg",
+      "name": "happy"
+    },
+    {
+      "id": 1997,
+      "description": "FDAO-kiwi",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://assets.codepen.io/3/kiwi.svg",
+      "name": "kiwi"
+    },
+    {
+      "id": 1998,
+      "description": "FDAO-tiger",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://www.w3.org/TR/2000/NOTE-SVG-access-20000807/tiger.png",
+      "name": "tiger"
+    }
+  ]
 }
