@@ -1,21 +1,21 @@
 {
   "tokens": [
     {
-      "id": 1996,
+      "id": 0,
       "description": "FDAO-happy",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://ey5me.csb.app/happy.svg",
       "name": "happy"
     },
     {
-      "id": 1997,
+      "id": 1,
       "description": "FDAO-kiwi",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://assets.codepen.io/3/kiwi.svg",
       "name": "kiwi"
     },
     {
-      "id": 1998,
+      "id": 2,
       "description": "FDAO-tiger",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://www.w3.org/TR/2000/NOTE-SVG-access-20000807/tiger.png",
